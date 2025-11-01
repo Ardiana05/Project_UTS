@@ -239,5 +239,11 @@ Nama Aggota Kelompok:
             </div>
         </section>
     </main>
+    <footer>
+        <p>&copy; 2025 Makan Yuk!. Semua hak dilindungi.</p>
+    </footer>
+
+</body>
+</html>
 
         
