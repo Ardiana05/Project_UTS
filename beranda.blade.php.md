@@ -105,5 +105,38 @@ Nama Aggota Kelompok:
         .btn-whatsapp:hover {
             background-color: #20b458;
         }
+        .about-box img {
+            width: 100%;
+            border-radius: 12px;
+            margin: 20px 0;
+        }
+        footer {
+            background-color: #d35400;
+            color: white;
+            text-align: center;
+            padding: 10px;
+            margin-top: 40px;
+        }
+        section {
+            margin-bottom: 70px;
+        }
+    </style>
+</head>
+<body>
+
+    <!-- HEADER -->
+    <header>
+        <h1>🍴 Makan Yuk!</h1>
+        <p>Makanan Lezat, Harga Bersahabat</p>
+    </header>
+
+    <!-- NAVIGATION -->
+    <nav>
+        <a href="#beranda">Beranda</a>
+        <a href="#menu">Menu</a>
+        <a href="#promo">Promo</a>
+        <a href="#tentang">Tentang</a>
+        <a href="#kontak">Kontak</a>
+    </nav>
 
         
