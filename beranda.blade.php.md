@@ -179,5 +179,33 @@ Nama Aggota Kelompok:
                 </div>
             </div>
         </section>
+        <!-- Yuliani Irma Waty Ujung -->
+
+        <!-- PROMO & PAKET -->
+        <section id="promo">
+            <h2>🎁 Promo & Paket Spesial</h2>
+            <div class="promo-container">
+                <div class="promo-box">
+                    <img src="{{ asset('assets/img/elements/nasi goreng es teh.jpg') }}" alt="Paket Hemat 1">
+                    <h3>🔥 Paket Hemat 1</h3>
+                    <p>Nasi Goreng + Es Teh Manis<br><strong>Rp28.000</strong></p>
+                    <a class="btn-pesan" href="https://wa.me/6281234567890?text=Halo%2C+saya+mau+pesan+Paket+Hemat+1" target="_blank">Pesan Sekarang</a>
+                </div>
+
+                <div class="promo-box">
+                    <img src="{{ asset('assets/img/elements/nasi ayam bakar.jpg') }}" alt="Paket Hemat 2">
+                    <h3>🔥 Paket Hemat 2</h3>
+                    <p>Ayam Bakar + Nasi + Minum<br><strong>Rp30.000</strong></p>
+                    <a class="btn-pesan" href="https://wa.me/6281234567890?text=Halo%2C+saya+mau+pesan+Paket+Hemat+2" target="_blank">Pesan Sekarang</a>
+                </div>
+
+                <div class="promo-box">
+                    <img src="https://img.freepik.com/free-photo/top-view-fried-noodles-with-vegetables_140725-2037.jpg" alt="Diskon Spesial">
+                    <h3>💥 Diskon Spesial</h3>
+                    <p>Diskon 10% untuk pembelian di atas Rp100.000</p>
+                    <a class="btn-pesan" href="https://wa.me/6281234567890?text=Halo%2C+saya+mau+pesan+dengan+Diskon+10%25" target="_blank">Pesan Sekarang</a>
+                </div>
+            </div>
+        </section>
 
         
