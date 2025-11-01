@@ -233,5 +233,11 @@ Nama Aggota Kelompok:
                 <p><strong>💟 Instagram:</strong> MakanYuk!_Official</p>
                 <p><strong>🕒 Jam Buka:</strong> Setiap Hari, 09.00 - 21.00 WIB</p>
                 <br>
+                <a class="btn-whatsapp" href="https://wa.me/6281234567890?text=Halo%2C+saya+ingin+memesan+makanan+dari+Makan+Yuk!" target="_blank">
+                    💬 Chat via WhatsApp
+                </a>
+            </div>
+        </section>
+    </main>
 
         
