@@ -48,3 +48,37 @@ Nama Aggota Kelompok: 1. Firda Wardina (230212028) (Beranda) 2. Ardiana (2302120
             max-width: 1000px;
             margin: auto;
         }
+        h2 {
+            color: #d35400;
+            margin-bottom: 20px;
+        }
+        .menu-item, .promo-box, .about-box, .contact-box {
+            background-color: #fff;
+            border-radius: 15px;
+            box-shadow: 0 4px 10px rgba(0,0,0,0.1);
+            padding: 20px;
+            margin-bottom: 30px;
+        }
+        .menu-item img, .promo-box img {
+            width: 100%;
+            height: 200px;
+            border-radius: 10px;
+            object-fit: cover;
+            margin-bottom: 10px;
+        }
+        .menu-container, .promo-container {
+            display: flex;
+            flex-wrap: wrap;
+            justify-content: center;
+            gap: 20px;
+        }
+        .menu-item, .promo-box {
+            width: 300px;
+            transition: transform 0.3s ease, box-shadow 0.3s ease;
+        }
+        .menu-item:hover, .promo-box:hover {
+            transform: scale(1.03);
+            box-shadow: 0 8px 18px rgba(0,0,0,0.2);
+        }
+
+        
