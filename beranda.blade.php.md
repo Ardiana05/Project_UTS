@@ -207,5 +207,19 @@ Nama Aggota Kelompok:
                 </div>
             </div>
         </section>
+        <!-- Indah Mayana Siregar  -->
+
+        <!-- TENTANG KAMI -->
+        <section id="tentang">
+            <h2>🏠 Tentang Kami</h2>
+            <div class="about-box">
+                <p><strong>Makan Yuk!</strong> berdiri sejak tahun 2025 di Banda Aceh. Kami berkomitmen menghadirkan cita rasa khas rumahan dengan bahan-bahan segar, higienis, dan halal setiap hari.</p>
+
+                <img src="{{ asset('assets/img/elements/depan restoran.jpeg') }}" alt="Makan Yuk!" style="width: 700px; height: auto; border-radius: 10px;">
+
+                <p>Kami percaya makanan bukan hanya tentang rasa, tapi juga kebersamaan. Setiap hidangan kami disiapkan dengan cinta dan perhatian, agar pelanggan merasakan kehangatan seperti di rumah sendiri.</p>
+                <p><strong>Motto kami: <em>"Ayo Makan, Pasti Bahagia!"</strong></em></p>
+            </div>
+        </section>
 
         
