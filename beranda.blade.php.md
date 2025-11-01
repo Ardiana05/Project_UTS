@@ -85,5 +85,25 @@ Nama Aggota Kelompok:
             transform: scale(1.03);
             box-shadow: 0 8px 18px rgba(0,0,0,0.2);
         }
+        .btn-pesan, .btn-whatsapp {
+            display: inline-block;
+            padding: 10px 20px;
+            border-radius: 8px;
+            color: white;
+            text-decoration: none;
+            font-weight: bold;
+        }
+        .btn-pesan {
+            background-color: #d35400;
+        }
+        .btn-pesan:hover {
+            background-color: #e67e22;
+        }
+        .btn-whatsapp {
+            background-color: #25D366;
+        }
+        .btn-whatsapp:hover {
+            background-color: #20b458;
+        }
 
         
