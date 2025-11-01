@@ -227,5 +227,11 @@ Nama Aggota Kelompok:
         <section id="kontak">
             <h2>📞 Hubungi Kami</h2>
             <div class="contact-box">
+                <p><strong>📍 Alamat:</strong> Jl. Syiah Kuala No. 10, Banda Aceh</p>
+                <p><strong>📱 WhatsApp:</strong> <a href="https://wa.me/6281234567890" target="_blank">0812-3456-7890</a></p>
+                <p><strong>📧 Email:</strong> makanyuk!@gmail.com</p>
+                <p><strong>💟 Instagram:</strong> MakanYuk!_Official</p>
+                <p><strong>🕒 Jam Buka:</strong> Setiap Hari, 09.00 - 21.00 WIB</p>
+                <br>
 
         
