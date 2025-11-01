@@ -138,5 +138,14 @@ Nama Aggota Kelompok:
         <a href="#tentang">Tentang</a>
         <a href="#kontak">Kontak</a>
     </nav>
+    <!-- Firda Wardina -->
+
+    <main>
+        <!-- BERANDA -->
+        <section id="beranda">
+            <h2>Selamat Datang di Makan Yuk!</h2>
+            <p>Kami menyajikan berbagai hidangan rumahan yang menggugah selera. Pesan sekarang dan rasakan kelezatannya!</p>
+            <img src="{{ asset('assets/img/elements/logo_makanan.png') }}" alt="Makanan Lezat" style="max-width: 100%; border-radius: 15px;">
+        </section>
 
         
