@@ -221,5 +221,11 @@ Nama Aggota Kelompok:
                 <p><strong>Motto kami: <em>"Ayo Makan, Pasti Bahagia!"</strong></em></p>
             </div>
         </section>
+        <!-- Kerja Kelompok -->
+
+        <!-- KONTAK KAMI -->
+        <section id="kontak">
+            <h2>📞 Hubungi Kami</h2>
+            <div class="contact-box">
 
         
