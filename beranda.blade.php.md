@@ -148,4 +148,36 @@ Nama Aggota Kelompok:
             <img src="{{ asset('assets/img/elements/logo_makanan.png') }}" alt="Makanan Lezat" style="max-width: 100%; border-radius: 15px;">
         </section>
 
+<!-- Ardiana -->
+
+    <!-- MENU MAKANAN -->
+        <section id="menu">
+            <h2>🍛 Menu Makanan</h3>
+            <div class="menu-container">
+                <div class="menu-item">
+                    <img src="{{ asset('assets/img/elements/nasi goreng.jpeg') }}" alt="Nasi Goreng Spesial"
+                    style="width: 170px; height: auto; border-radius: 10px;">
+                    <h3>Nasi Goreng Spesial</h3>
+                    <p>Harga: Rp25.000</p>
+                    <a class="btn-pesan" href="https://wa.me/6281234567890?text=Halo%2C+saya+mau+pesan+Nasi+Goreng+Spesial" target="_blank">Pesan Sekarang</a>
+                </div>
+
+                <div class="menu-item">
+                    <img src="{{ asset('assets/img/elements/ayam bakar.jpeg') }}" alt="Ayam Bakar"
+                    style="width: 170px; height: auto; border-radius: 10px;">
+                    <h3>Ayam Bakar</h3>
+                    <p>Harga: Rp20.000</p>
+                    <a class="btn-pesan" href="https://wa.me/6281234567890?text=Halo%2C+saya+mau+pesan+Ayam+Geprek" target="_blank">Pesan Sekarang</a>
+                </div>
+
+                <div class="menu-item">
+                    <img src="https://img.freepik.com/free-photo/iced-tea-glass-with-lemon_1203-1746.jpg" alt="Es Teh Manis"
+                    style="width: 170px; height: auto; border-radius: 10px;">
+                    <h3>Es Teh Manis</h3>
+                    <p>Harga: Rp5.000</p>
+                    <a class="btn-pesan" href="https://wa.me/6281234567890?text=Halo%2C+saya+mau+pesan+Es+Teh+Manis" target="_blank">Pesan Sekarang</a>
+                </div>
+            </div>
+        </section>
+
         
